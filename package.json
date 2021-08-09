@@ -1,0 +1,24 @@
+{
+  "name": "servidor-api-pay-take",
+  "version": "1.0.0",
+  "description": "API RestFul",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedrogutierresbr/servidor-api-pay-take.git"
+  },
+  "author": "Pedro Gutierres",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedrogutierresbr/servidor-api-pay-take/issues"
+  },
+  "homepage": "https://github.com/pedrogutierresbr/servidor-api-pay-take#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "uuid": "^3.4.0"
+  }
+}
