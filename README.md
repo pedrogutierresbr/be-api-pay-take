@@ -6,7 +6,7 @@ Servidor criado para o projeto **Pay&Take** para gerenciar as informações envi
 
 ## Resolve qual problema?
 
-Este projeto foi feito como idéia de continuidade de um outro projeto que eu já tenho em meu portfólio (você pode acessá-lo clicando neste link [Pay&Take](https://github.com/pedrogutierresbr/Pay-and-Take)), para gerenciar as informações enviadas do formulário da aplicação.
+Este projeto foi feito como idéia de continuidade de um outro projeto que eu já tenho em meu portfólio (você pode acessá-lo clicando em: [Pay&Take](https://github.com/pedrogutierresbr/Pay-and-Take)), para gerenciar as informações enviadas do formulário da aplicação.
 
 ## Tecnologias usadas
 
